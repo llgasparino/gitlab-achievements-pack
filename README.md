@@ -7,7 +7,7 @@
 
 # 🦊 GitLab Achievements Pack
 
-A collection of custom, lighthearted badges to gamify your daily engineering, QA, DevOps, and onboarding workflow on **GitLab** (including the **Free Self-Managed** tier).
+A collection of **42 custom, lighthearted badges** to gamify your daily engineering, QA, DevOps, and onboarding workflow on **GitLab** (including the **Free Self-Managed** tier).
 
 The goal is simple: turn classic day-to-day engineering moments—from accidentally committing a `.env` file to saving a Friday deploy or taking down a test database during a load test—into fun milestones for learning, recognition, and team decompression.
 
@@ -45,6 +45,22 @@ The goal is simple: turn classic day-to-day engineering moments—from accidenta
 | <img src="./badges/24-stress-test-supremo.webp" width="72" /> | **Supreme Stress Test** | Awarded to whoever took load testing seriously enough to find the exact breaking point of a database in practice, yielding valuable scaling lessons. |
 | <img src="./badges/25-select-sem-where.webp" width="72" /> | **SELECT Without WHERE** | Awarded to the data explorer who ran a heavier-than-expected query in a test environment and learned firsthand the true value of a good index. |
 | <img src="./badges/26-guardiao-da-regressao.webp" width="72" /> | **Regression Guardian** | Awarded to the quality sentinel who caught and blocked an old bug trying to sneak back inside a new release before reaching production. |
+| <img src="./badges/27-bug-hunter.webp" width="72" /> | **Bug Hunter** | Awarded to the relentless troubleshooter who closed 10 issues across group projects, hunting down bugs until the backlog was spotless. |
+| <img src="./badges/28-mestre-das-discussoes.webp" width="72" /> | **Discussion Master** | Awarded to the active collaborator who reached 100 comments across Merge Requests and Issues, shaping technical reviews and team decisions. |
+| <img src="./badges/29-heroi-do-deploy.webp" width="72" /> | **Deploy Hero** | Awarded to the release champion who completed 10 successful deployments across group environments, shipping features smoothly to production. |
+| <img src="./badges/30-security-guardian.webp" width="72" /> | **Security Guardian** | Awarded for fixing and resolving a security vulnerability, strengthening the protection of applications and infrastructure. |
+| <img src="./badges/31-colecionador-de-tags.webp" width="72" /> | **Tag Collector** | Awarded to the versioning enthusiast who created 20 release tags across repositories, keeping every milestone cleanly marked in Git history. |
+| <img src="./badges/32-engenheiro-de-release.webp" width="72" /> | **Release Engineer** | Awarded for publishing the first official project Release, packaging and delivering a stable version for everyone to consume. |
+| <img src="./badges/33-sequencia-verde.webp" width="72" /> | **Green Streak** | Awarded to the consistency master who landed 10 consecutive passing pipelines on the same branch without breaking the build once. |
+| <img src="./badges/34-sobrevivente-do-pipeline.webp" width="72" /> | **Pipeline Survivor** | Awarded to the resilient engineer who watched their pipeline fail, investigated the root cause, and got it passing green right after. |
+| <img src="./badges/35-revisor-de-codigo.webp" width="72" /> | **Code Reviewer** | Awarded to the dedicated peer who reviewed and approved 25 Merge Requests from teammates, safeguarding code quality and best practices. |
+| <img src="./badges/36-first-blood.webp" width="72" /> | **First Blood** | Awarded for getting your very first Merge Request merged into the group, marking your official debut in the codebase history. |
+| <img src="./badges/37-fabrica-de-mr.webp" width="72" /> | **MR Factory** | Awarded to the prolific builder who opened 50 Merge Requests, turning ideas and backlog tasks into continuous incremental deliveries. |
+| <img src="./badges/38-guerreiro-de-fim-de-semana.webp" width="72" /> | **Weekend Warrior** | Awarded to anyone who pushed code on a Saturday or Sunday, holding down the fort or shipping improvements outside regular weekday hours. |
+| <img src="./badges/39-night-owl.webp" width="72" /> | **Night Owl** | Awarded to the midnight coder who pushed commits between 12 AM and 5 AM, proving that engineering inspiration knows no bedtime. |
+| <img src="./badges/40-commit-machine.webp" width="72" /> | **Commit Machine** | Awarded to the unstoppable contributor who reached 100 commits across group repositories, keeping delivery momentum at full throttle. |
+| <img src="./badges/41-novato.webp" width="72" /> | **Rookie** | Awarded once in a lifetime when your very first Merge Request is approved and merged into `main` (or `master`), marking your production debut. |
+| <img src="./badges/42-criador-de-projeto.webp" width="72" /> | **Project Creator** | Awarded once in a lifetime for creating a brand-new repository/project in the group, bringing a new service, app, or library to life. |
 
 ---
 

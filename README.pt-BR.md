@@ -7,7 +7,7 @@
 
 # 🦊 GitLab Achievements Pack
 
-Uma coleção de medalhas personalizadas e bem-humoradas para gamificar a rotina de desenvolvimento, QA, DevOps e onboarding no **GitLab** (inclusive na versão **Free Self-Managed**).
+Uma coleção de **42 medalhas personalizadas e bem-humoradas** para gamificar a rotina de desenvolvimento, QA, DevOps e onboarding no **GitLab** (inclusive na versão **Free Self-Managed**).
 
 A ideia é simples: transformar aqueles marcos clássicos do dia a dia da engenharia — desde commitar um `.env` sem querer até salvar uma entrega na sexta-feira ou derrubar um banco no teste de carga — em momentos leves de aprendizado, reconhecimento e descompressão para o time.
 
@@ -45,6 +45,22 @@ A ideia é simples: transformar aqueles marcos clássicos do dia a dia da engenh
 | <img src="./badges/24-stress-test-supremo.webp" width="72" /> | **Stress Test Supremo** | Concedido a quem levou o teste de carga tão a sério que descobriu exatamente o limite máximo do banco de dados na prática, gerando aprendizados valiosos de escala. |
 | <img src="./badges/25-select-sem-where.webp" width="72" /> | **SELECT Sem WHERE** | Concedido ao explorador de dados que executou uma consulta mais pesada que o esperado em ambiente de testes e aprendeu na prática o valor de um bom índice. |
 | <img src="./badges/26-guardiao-da-regressao.webp" width="72" /> | **Guardião da Regressão** | Concedido ao sentinela de qualidade que identificou e barrou um bug antigo tentando voltar escondido dentro de uma entrega nova antes de chegar em produção. |
+| <img src="./badges/27-bug-hunter.webp" width="72" /> | **Bug Hunter** | Concedido a quem fechou 10 issues nos projetos do grupo, caçando e eliminando problemas até deixar o backlog limpo. |
+| <img src="./badges/28-mestre-das-discussoes.webp" width="72" /> | **Mestre das Discussões** | Concedido a quem atingiu 100 comentários em Merge Requests e Issues, contribuindo ativamente nas revisões, dúvidas e decisões técnicas do time. |
+| <img src="./badges/29-heroi-do-deploy.webp" width="72" /> | **Herói do Deploy** | Concedido a quem concluiu 10 deployments bem-sucedidos nos ambientes do grupo, levando novas entregas ao ar com estabilidade. |
+| <img src="./badges/30-security-guardian.webp" width="72" /> | **Guardião da Segurança** | Concedido pela primeira vulnerabilidade corrigida e resolvida, fortalecendo a proteção das aplicações e da infraestrutura. |
+| <img src="./badges/31-colecionador-de-tags.webp" width="72" /> | **Colecionador de Tags** | Concedido a quem criou 20 tags de versionamento nos repositórios, mantendo o histórico de entregas bem marcado. |
+| <img src="./badges/32-engenheiro-de-release.webp" width="72" /> | **Engenheiro de Release** | Concedido pela publicação da primeira Release oficial de um projeto, empacotando e entregando versão estável. |
+| <img src="./badges/33-sequencia-verde.webp" width="72" /> | **Sequência Verde** | Concedido a quem emplacou 10 pipelines consecutivos com sucesso, sem quebrar a esteira nenhuma vez. |
+| <img src="./badges/34-sobrevivente-do-pipeline.webp" width="72" /> | **Sobrevivente do Pipeline** | Concedido a quem viu o pipeline falhar, investigou o problema e conseguiu fazê-lo passar com sucesso logo em seguida. |
+| <img src="./badges/35-revisor-de-codigo.webp" width="72" /> | **Revisor de Código** | Concedido a quem aprovou 25 Merge Requests de colegas, garantindo qualidade, segurança e boas práticas no código do time. |
+| <img src="./badges/36-first-blood.webp" width="72" /> | **First Blood** | Concedido pelo primeiro Merge Request mergeado com sucesso no grupo, marcando a estreia oficial no histórico do código. |
+| <img src="./badges/37-fabrica-de-mr.webp" width="72" /> | **Fábrica de MR** | Concedido a quem atingiu 50 Merge Requests criados, transformando ideias e tarefas em entregas contínuas. |
+| <img src="./badges/38-guerreiro-de-fim-de-semana.webp" width="72" /> | **Guerreiro de Fim de Semana** | Concedido a quem realizou um push em pleno sábado ou domingo, segurando a bronca ou avançando código fora do expediente. |
+| <img src="./badges/39-night-owl.webp" width="72" /> | **Night Owl** | Concedido a quem realizou um push na madrugada (entre 00h e 05h), provando que a inspiração para codar não tem hora para chegar. |
+| <img src="./badges/40-commit-machine.webp" width="72" /> | **Máquina de Commit** | Concedido a quem atingiu a marca de 100 commits realizados nos repositórios do grupo, mantendo o ritmo de entrega lá em cima. |
+| <img src="./badges/41-novato.webp" width="72" /> | **Novato** | Concedido uma única vez a quem teve seu primeiro Merge Request aprovado e mergeado na branch `main` (ou `master`), marcando oficialmente a estreia em produção. |
+| <img src="./badges/42-criador-de-projeto.webp" width="72" /> | **Criador de Projeto** | Concedido uma única vez a quem criou um novo repositório/projeto no grupo, dando vida a uma nova aplicação, serviço ou biblioteca. |
 
 ---
 
